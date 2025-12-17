@@ -15,14 +15,10 @@ const UpcomingPage = () => {
           fontSize: '1rem',
           background: '#252A41',
           textAlign: 'center',
+          padding: 5,
         }}
       >
-        <h1>
-          Designed by Saurabh Karn & Aditya Prajapati{' '}
-          <span style={{ color: 'DodgerBlue' }}>
-            (Blink Random Technologies)
-          </span>
-        </h1>
+        <h1>Designed by Saurabh Karn & Aditya Prajapati</h1>
       </div>
     </section>
   );
