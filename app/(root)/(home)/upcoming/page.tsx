@@ -18,7 +18,10 @@ const UpcomingPage = () => {
           padding: 5,
         }}
       >
-        <h1>Designed by Saurabh Karn & Aditya Prajapati</h1>
+        <h1>
+          Made with ❤️ Idea and Concept - Deepesh, Programmed and Design by
+          Saurabh Karn and Aditya Prajapati
+        </h1>
       </div>
     </section>
   );
