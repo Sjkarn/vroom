@@ -93,7 +93,7 @@ const PersonalRoom = () => {
       >
         <h1>
           Made with ❤️ Idea and Concept - Deepesh, Programmed and Design by
-          Saurabh Karn and Aditya Prajapati
+          Saurabh Karn and Aditya Prajapati.
         </h1>
       </div>
     </section>
